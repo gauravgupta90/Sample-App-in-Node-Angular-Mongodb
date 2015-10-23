@@ -1,0 +1,23 @@
+{
+  "name": "sampleApp",
+  "description": "Sample App in Node.js Express Angular Mongodb",
+  "version": "0.1.0",
+  "main": "server/server.js",
+  "engines": {
+    "node": ">=0.10.22"
+  },
+  "dependencies": {
+    "body-parser": "^1.13.3",
+    "boom": "^2.6.1",
+    "express": "^4.10.6",
+    "mongoose": "^4.1.11",
+    "mongoose-auto-increment": "^4.0.0",
+    "connect-multiparty": "^2.0.0"
+  },
+  "author": {
+    "name": "gaurav gupta",
+    "email": "gaurav_bng@hotmail.com",
+    "github": "https://github.com/gauravgupta90",
+    "linkedin": "https://in.linkedin.com/pub/gaurav-gupta/83/837/657"
+  }
+}
